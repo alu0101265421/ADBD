@@ -8,6 +8,6 @@ Es importante la atención al detalle en el diseño de las bases de datos, ya qu
 ## Improving Communication Between Data Modelers and Enterprise Stakeholders
 
 Debemos tener en cuenta varias características importantes que nos harán mejorar la comunicación entre el personal técnico y la parte empresarial, dando como resultado técnicas ágiles centrándose en la comprensión y desarrollo iterativo para abordar la propuesta.
-Modelos de datos claros y concisos: Realizados por parte de modeladores los cuales se van a utilizar para definir los requisitos de datos que respaldan los objetivos comerciales. 
-Modelado de procesos de negocio: Con esto identificamos la información que se necesita para hacer crecer/mejorar el negocio. Estos se involucrarán en las primeras etapas del proceso, para así conseguir una aceptación de alto nivel en los proyectos.
+- Modelos de datos claros y concisos: Realizados por parte de modeladores los cuales se van a utilizar para definir los requisitos de datos que respaldan los objetivos comerciales. 
+- Modelado de procesos de negocio: Con esto identificamos la información que se necesita para hacer crecer/mejorar el negocio. Estos se involucrarán en las primeras etapas del proceso, para así conseguir una aceptación de alto nivel en los proyectos.
 
